@@ -50,6 +50,7 @@ function reducer(state, action) {
                 color: 'blue'
             }
         };
+
     }
     switch (action.type) {
         case 'UPDATE_TITLE_TEXT':
